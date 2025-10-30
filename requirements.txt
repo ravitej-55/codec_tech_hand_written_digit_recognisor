@@ -1,0 +1,6 @@
+tensorflow
+numpy
+matplotlib
+
+Sample Images
+MNIST images are included programmatically using datasets.mnist.load_data(), so you do not need to upload any data files.
